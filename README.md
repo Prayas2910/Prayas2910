@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&width=800&height=80&lines=PRAYAS+SAWWALAKHE;Java+Developer;Spring+Boot+Enthusiast;Microservices+Architecture" alt="Typing SVG" />
-  
+   
   <p>
     <a href="mailto:prayassawwalakhe@gmail.com">
       <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"/>
