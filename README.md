@@ -70,7 +70,7 @@ B.Tech CS student skilled in **Java, Spring Boot, and microservices architecture
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" alt="Maven"/>
   <img src="https://img.shields.io/badge/Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Cloud Platforms"/>
 </p>
-
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 ## 🏆 Certifications
 
 - **Campus Ambassador** - Axis VNIT (2024)
