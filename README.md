@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&width=800&height=80&lines=PRAYAS+SAWWALAKHE;Java+Developer;Spring+Boot+Enthusiast;Microservices+Architecture" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00BFA5&center=true&vCenter=true&width=800&height=80&lines=PRAYAS+SAWWALAKHE;Java+Developer;Spring+Boot+Enthusiast;Microservices+Architecture" alt="Typing SVG" />
    
   <p>
     <a href="mailto:prayassawwalakhe@gmail.com">
@@ -80,7 +80,7 @@ B.Tech CS student skilled in **Java, Spring Boot, and microservices architecture
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prayas2910&show_icons=true&theme=dark" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Prayas2910&show_icons=true&theme=dark" alt="" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prayas2910&theme=dark" alt="GitHub Streak" height="170"/>
 </div>
 
