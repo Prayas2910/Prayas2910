@@ -75,48 +75,6 @@ B.Tech CS student skilled in **Java, Spring Boot, and microservices architecture
   <img src="https://img.shields.io/badge/Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Cloud Platforms"/>
 </p>
 
-## 🚀 Projects
-
-### Full-Stack E-Commerce Platform
-📅 **2024**
-
-**Tech Stack:** MongoDB, Express.js, React.js, Node.js, Prisma ORM, Tailwind CSS, JWT
-
-- Built complete online store handling **500+ product listings** with 2-second page load time
-- Implemented **JWT authentication** and **Stripe payment integration**
-- Created responsive UI with **mobile-first approach** using Tailwind CSS
-- Optimized performance through efficient database queries and caching
-
-### Banking System
-📅 **2025**
-
-**Tech Stack:** Java, Spring Boot, Spring Data JPA, MySQL, Maven, Postman
-
-- Developed Spring Boot banking application with **layered architecture**
-- Handles **1000+ concurrent transactions** efficiently
-- Designed **thread-safe transaction processing** with synchronized account operations
-- Implemented robust error handling and transaction rollback mechanisms
-
-### 2048Go Game
-📅 **2025**
-
-**Tech Stack:** Go, Goroutines, Go modules, CLI
-
-- Created complete **2048 puzzle clone** with tile movement and merging logic
-- Implemented score tracking and win/lose detection
-- Optimized game logic using **Goroutines** for smooth performance
-- Built clean CLI interface for enhanced user experience
-
-### Music Player
-📅 **2026**
-
-**Tech Stack:** Java, Android SDK, RemoteView, NotificationManager, MediaPlayer
-
-- Designed **offline Android music player** that reads and plays all songs from device storage
-- Implemented **interactive notification controls** using NotificationManager and RemoteView
-- Added playback controls directly in notification bar
-- Supports multiple audio formats and background playback
-
 ## 🏆 Certifications & Achievements
 
 ### Campus Ambassador
